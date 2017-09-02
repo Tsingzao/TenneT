@@ -3,20 +3,19 @@
 This is the code for "TenneT: Unsupervised Feature Extraction for Extreme Low-Resolution Video Action Recognition"
 
 # NetArchitecture
-![Alt text](https://github.com/Tsingzao/motion_image/blob/master/Results/NetArchitecture.jpg)
-![Alt text](https://github.com/Tsingzao/motion_image/blob/master/Results/comparison.jpg)
+![Alt text]https://github.com/Tsingzao/TenneT/upload/master/result/motivation.jpg)
+![Alt text](https://github.com/Tsingzao/TenneT/upload/master/result/net.jpg)
 
 # Results
 
-Feature Map visualization on Penn 
-![Alt text](https://github.com/Tsingzao/SemanticGuidedBlock/blob/master/result/visual_penn.png)
+![Alt text](https://github.com/Tsingzao/TenneT/upload/master/result/r1.jpg)
+![Alt text](https://github.com/Tsingzao/TenneT/upload/master/result/r2.jpg)
+![Alt text](https://github.com/Tsingzao/TenneT/upload/master/result/r3.jpg)
+![Alt text](https://github.com/Tsingzao/TenneT/upload/master/result/r4.jpg)
+![Alt text](https://github.com/Tsingzao/TenneT/upload/master/result/r5.jpg)
+![Alt text](https://github.com/Tsingzao/TenneT/upload/master/result/r6.jpg)
 
 Visualization of Pool Feature to t-SNE 
 
 <div align=center><img width="350" height="500" src="https://github.com/Tsingzao/SemanticGuidedBlock/blob/master/result/visual_pool.png"/>
 
-![Alt text](https://github.com/Tsingzao/SemanticGuidedBlock/blob/master/result/penn_confusion.png)
-Confusion Matrix on Penn 
-
-![Alt text](https://github.com/Tsingzao/SemanticGuidedBlock/blob/master/result/odar_new.png)
-Each Class Classification Accuracy on ODAR 
